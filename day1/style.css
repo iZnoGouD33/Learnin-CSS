@@ -1,7 +1,24 @@
-body{
-    font-size: 22px;
+html{
+    font-size: 16px;
+}
+
+header{
+    width: 50%;
+}
+
+h1{
+    border: 2px dashed red;
+    width: 100%;
+    font-size: 3rem;  
+    padding: 0.5em; 
+
+}
+
+main{
+    font-size: 2em;
 }
 
 p{
-    color: red;
+    font-size: 2em;
+    width: 40ch;
 }
