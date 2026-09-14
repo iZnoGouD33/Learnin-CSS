@@ -1,0 +1,33 @@
+body{
+    padding: 10%;
+    font-size: 2rem;
+    font-family: monospace;
+}
+
+
+
+/* input,button{
+    font: inherit;
+} */
+
+p{
+    /* text-decoration: underline; */
+    /* text-decoration: line-through; */
+    /* text-transform: lowercase; */
+    /* text-align: justify; */
+    /* text-indent: 1em; */   /* to set space on start line! */
+
+
+}
+
+p{
+    /* line-height: 1.5; */
+    /* letter-spacing: 1px; */
+    word-spacing: 1em;
+}
+
+
+
+
+
+
